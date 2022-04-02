@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          this is git demo
+          this is git demo for main and head syntax
         </a>
       </header>
     </div>
